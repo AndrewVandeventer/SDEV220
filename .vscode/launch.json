@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/SDEV220",
-      "program": "d:/SDEV220/build/Debug/outDebug",
+      "cwd": "d:/SDEV220/Module_2",
+      "program": "d:/SDEV220/Module_2/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
